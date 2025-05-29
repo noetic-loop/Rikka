@@ -1,7 +1,11 @@
 ## 回復期、外で何食べていいか問題｜薬膳中華の白身魚炒めはセーフか？
 
 ---
+**License:** CC BY-NC 4.0  
+**Author:** [Rikka](https://github.com/noetic-loop)  
+**Details:** [creativecommons.org/licenses/by-nc/4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
+---
 ## 🍽 この日の体調と前提条件
 
 - 副腎疲労：ステージ2〜緩やかに回復中  
@@ -61,3 +65,8 @@
 ## 🪧 タグ
 
 `#Rikka外食記録` `#薬膳中華レポート` `#胃反応観察` `#サプリ体感記録` `#回復期の選択基準`
+
+---
+
+© Rikka, licensed under CC BY-NC 4.0  
+https://creativecommons.org/licenses/by-nc/4.0/
