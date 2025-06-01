@@ -64,7 +64,22 @@
 
 ## 🪧 タグ
 
-`#Rikka外食記録` `#薬膳中華レポート` `#胃反応観察` `#サプリ体感記録` `#回復期の選択基準`
+#Rikka外食記録 #薬膳中華レポート #胃反応観察　 #サプリ体感記録 #回復期の選択基準
+
+---
+## Author: Rikka
+
+分子栄養学・神経免疫・腸内環境などの相互作用を読み解き、回復設計の試行記録を行なっています。  
+臨床的な視点と生活の実感をつなぐログを掲載中。
+
+Exploring the intersections of molecular nutrition, neuroimmune pathways, and gut ecology.  
+A log connecting lived experience with clinical insight.
+
+[GitHub (EN / JP)](https://github.com/noetic-loop/Rikka)｜[Substack (EN / JP)](https://substack.com/@rikkarikka)｜[note (JP)](https://note.com/rikka202505)
+
+創作活動は「彩葉（AYA Rowan）」名義で行なっています →  
+Creative works are published under the name AYA Rowan (彩葉) →  
+[GitHub (EN / JP)](https://github.com/noetic-loop/Gut_Kingdom)｜[Substack (EN / JP)](https://ayarowan.substack.com/)｜[note (JP)](https://note.com/ranunculus202504)
 
 ---
 

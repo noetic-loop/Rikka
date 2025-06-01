@@ -15,17 +15,17 @@ Each record includes meal composition, supplement interactions, metabolic contex
 
 ## 📁 内容｜Contents
 
-- `第1回_薬膳中華.md`：白身魚トーチ炒めを中心とした記録（日本語）
-- `Chinese_Herbal_Fish.md`：同上の英語翻訳版
-- `テンプレート.md`：Rikka外食観察記録の書き方テンプレート（日本語）
-- `運用ガイド.md`：このシリーズの発信戦略と配置マップ（日本語）
+- [[01_chinese_herbal_fish.jp]]：白身魚トーチ炒めを中心とした記録（日本語）
+- [[01_chinese_herbal_fish.en]]：A Record Centered on Torch-Fried White Fish    (a high-heat stir-frying method common in Chinese medicinal cooking) 
+- [[reporting_a_multibyte_bug.en]] : When Japanese Text Disappears： Reporting a Multibyte Bug in ChatGPT’s PDF Export
+
 
 ---
 
 ## 📌 背景と目的｜Purpose
 
 - 「何を食べるか」ではなく、「**どう反応するか**」に注目した食事記録
-- 栄養療法、慢性疲労、回復期の食選びに悩む人の参考に
+- 栄養療法、慢性疲労、回復期の外食選びに悩む人の参考に
 - 自分の反応を**言語化・構造化**するためのサンプルとして
 
 This project aims to highlight not what is eaten, but **how the body responds**.  
@@ -35,9 +35,9 @@ It supports those navigating recovery, nutritional therapy, or food sensitivitie
 
 ## 🔗 関連リンク｜Related
 
-- [Rikka note](https://note.com/your_link_here)：日本語でのクイズ＋解説形式の発信
-- [Rikka Substack](https://substack.com/@your_link_here)：英語エッセイ版の連載
-- [Rikka GitHub](https://github.com/your_username_here)：このリポジトリ
+- [Rikka note](https://note.com/rikka202505)：日本語でのクイズ＋解説形式の発信
+- [Rikka Substack](https://substack.com/@rikkarikka)：英語エッセイ版の連載
+- [Rikka GitHub](https://github.com/noetic-loop/Rikka)：このリポジトリ
 
 ---
 
